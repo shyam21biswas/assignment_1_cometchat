@@ -17,11 +17,3 @@ I intregate with my personal project
 - ✅ Modify Footer Views (e.g., Notes, Saved Links)
 
 ---
-
-## 🛠️ Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/chatme.git
-cd chatme
